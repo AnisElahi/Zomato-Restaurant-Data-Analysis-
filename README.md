@@ -49,15 +49,6 @@ The goal is to extract insights into restaurant industry trends, including **geo
 
 ---
 
-## 🚀 Get Started  
-
-[![Clone](https://img.shields.io/static/v1?label=Clone&message=Repository&color=blue&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau.git)  
-[![Push](https://img.shields.io/static/v1?label=Push&message=Changes&color=green&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/compare)  
-[![Pull](https://img.shields.io/static/v1?label=Pull&message=Requests&color=orange&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/pulls)  
-[![Issues](https://img.shields.io/static/v1?label=Raise&message=Issues&color=red&logo=github)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/issues)  
-
----
-
 ## 💡 Why This Project?  
 The project demonstrates strong **data analysis and visualization skills** by applying multiple tools to a real-world dataset.  
 By exploring **Zomato’s restaurant data**, it helps uncover **market trends, customer preferences, and business opportunities** in the food & beverage industry.  
