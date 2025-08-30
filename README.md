@@ -58,12 +58,6 @@ The goal is to extract insights into restaurant industry trends, including **geo
 
 ---
 
-## 🔗 Connect With Me  
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)  
-
----
-
 ## 💡 Why This Project?  
 The project demonstrates strong **data analysis and visualization skills** by applying multiple tools to a real-world dataset.  
 By exploring **Zomato’s restaurant data**, it helps uncover **market trends, customer preferences, and business opportunities** in the food & beverage industry.  
